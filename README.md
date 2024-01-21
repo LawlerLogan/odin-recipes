@@ -1,0 +1,1 @@
+This is an HTML project for The Odin Project. This project will demonstrate my capabilities at making websites with hyperlinks, unordered lists, ordered lists, images, and basic formatting tools.
